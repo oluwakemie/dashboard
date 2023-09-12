@@ -12,9 +12,9 @@ import{
     
 } from  "@iconscout/react-unicons";
 
-import img1 from '../imgs/img1.png'
-import img2 from '../imgs/img2.png'
-import img3 from '../imgs/img3.png'
+import img1 from '../imgs/Img1.png'
+import img2 from '../imgs/Img2.png'
+import img3 from '../imgs/Img3.png'
 //Sidebar Data
 export const SidebarData = [
     {
