@@ -3,13 +3,9 @@ import "./Sidebar.css";
 import Logo from "../../imgs/logo.png";
 import { SidebarData } from "../../Data/Data";
 import {
-  UilEstate,
-  UilClipboardAlt,
-  UilUsersAlt,
-  UilPackage,
-  UilChart,
+
   UilSignOutAlt,
-  UilMoneyWithdrawal,
+ 
   UilBars,
 } from "@iconscout/react-unicons";
 import {motion} from "framer-motion"

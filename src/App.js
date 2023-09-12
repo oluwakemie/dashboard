@@ -1,5 +1,4 @@
 import './App.css'
-import Cards from './components/Cards/Cards';
 import MainDash from './components/MainDash/MainDash';
 import RightSide from './components/RightSide/RightSide';
 import Sidebar from './components/Sidebar/Sidebar';
